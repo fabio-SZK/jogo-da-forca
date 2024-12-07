@@ -1,5 +1,5 @@
 <div align="center">
-<img src="imagemjogo.webp" alt="Logo - EcoRenova" width="200" height="200">
+<img src="jogo-da-forca.png" alt="Logo - Forca" width="200" height="200">
 </div>
 
 <h1 align="center"> Jogo da forca </h1>
