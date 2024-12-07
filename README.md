@@ -5,6 +5,7 @@
 <h1 align="center"> Jogo da forca </h1>
 
 ##Objetivo do Projeto
+
 Este é um jogo feito para aprimorar nossos conhecimentos em JavaScript.
 
 ## Alunos: 
