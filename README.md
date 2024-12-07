@@ -4,7 +4,7 @@
 
 <h1 align="center"> Jogo da forca </h1>
 
-## Objetivo do Projeto:
+## 🎮Objetivo do Projeto:
 
 Este é um jogo feito para aprimorar nossos conhecimentos em JavaScript.
 
@@ -15,3 +15,11 @@ Este é um jogo feito para aprimorar nossos conhecimentos em JavaScript.
 2576198 - Fábio Massashi Suzuki
 
 2576201 – Gabriel Batistela Da Silva
+
+## ✔️Tecnologias utilizadas:
+- ``JavaScript``
+
+- ## 🏗Estrutura do projeto
+- **README.md**: Contém as informações gerais do projeto, como descrição, objetivos, equipe e estrutura.
+- **script.js**: Lógica JavaScript que adiciona interatividade à página.
+
