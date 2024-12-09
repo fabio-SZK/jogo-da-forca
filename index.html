@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="option">
+        <h1>Jogo da Forca</h1>
+        <br>
+        <p id="palavra">_______</p>
+        <br>
+        <select id="dificuldade">
+            <option value="facil">Fácil</option>
+            <option value="medio">Médio</option>
+            <option value="dificil">Difícil</option>
+        </select>
+        <br>
+        <button id="startGame">Iniciar Jogo</button>   
+        <br>     
+        <input type="text" id="inputLetra" maxlength="1" placeholder="Digite uma letra" />
+        <p id="letrasErradas">Erros: </p>
+        <p id="tentativas">Tentativas restantes: 6</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
