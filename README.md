@@ -22,4 +22,6 @@ Este é um jogo feito para aprimorar nossos conhecimentos em JavaScript.
 ## 🏗Estrutura do projeto
 - **README.md**: Contém as informações gerais do projeto, como descrição, objetivos, equipe e estrutura.
 - **script.js**: Lógica JavaScript que adiciona interatividade à página.
+- **index.html**: Página principal do jogo.
+- **style.css**: Arquivo que define o layout e a estética do site ou aplicação.
 
