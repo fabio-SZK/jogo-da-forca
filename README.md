@@ -18,6 +18,8 @@ Este é um jogo feito para aprimorar nossos conhecimentos em JavaScript.
 
 ## ✔️Tecnologias utilizadas:
 - ``JavaScript``
+- ``HTML``
+- ``CSS``
 
 ## 🏗Estrutura do projeto
 - **README.md**: Contém as informações gerais do projeto, como descrição, objetivos, equipe e estrutura.
