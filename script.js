@@ -75,3 +75,7 @@ document.getElementById("startGame").addEventListener("click", function () {
     const dificuldade = document.getElementById("dificuldade").value;
     escolherDificuldade(dificuldade);
 });
+document.getElementById("recomecarJogo").addEventListener("click", function() {
+    location.reload();
+});
+
